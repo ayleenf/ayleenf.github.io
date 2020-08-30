@@ -26,10 +26,10 @@
         $email_content .= "Message:\n$message\n";
 
 
-        $email_headers = "From: $name <$email>";
+        //$email_headers = "From: $name <$email>";
 
 
-        if (mail($recipient, $subject, $email_content, $email_headers)) {
+        if (mail($recipient, $subject, $email_content)) { //, $email_headers at the end
             http_response_code(200);
             echo "Thank You! Your message has been sent.";
         } else {
