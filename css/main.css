@@ -167,9 +167,6 @@ section.about .content .dotdot {
   font-weight: bold;
   font-size: 0.9rem;
 }
-section.about .content .list {
-  margin-left: 20px;
-}
 section.about .content .list span {
   color: #D0D33C;
 }
