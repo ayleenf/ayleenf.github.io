@@ -518,7 +518,7 @@ section.experience .botbar .prev {
   display: inline-block;
   position: absolute;
   text-align: left;
-  margin-top: 12.44px;
+  margin-top: 11.9px;
   margin-left: 30px;
 }
 section.experience .botbar ul {
@@ -933,7 +933,7 @@ section.thanks .madeby p span {
     list-style-type: none;
     font-size: 1rem;
     text-align: left;
-    margin-left: 28px;
+    margin-left: 31px;
   }
   section.experience .topbar ul li {
     display: inline-block;
@@ -1255,7 +1255,7 @@ section.thanks .madeby p span {
     font-size: 1rem;
     position: static;
     text-align: left;
-    margin-top: 10px;
+    margin-top: -0.575px;
     margin-left: 50px;
   }
   section.experience .botbar ul {
