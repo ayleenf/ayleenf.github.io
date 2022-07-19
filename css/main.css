@@ -192,10 +192,9 @@ section.experience .topbar .now {
   color: #D0D33C;
   display: inline-block;
   position: absolute;
-  width: 20px;
   text-align: left;
   margin-top: 12.6px;
-  margin-left: 49.5px;
+  margin-left: 29px;
 }
 section.experience .topbar ul {
   width: 280px;
@@ -203,7 +202,7 @@ section.experience .topbar ul {
   list-style-type: none;
   font-size: 0.8rem;
   text-align: left;
-  margin-left: 65px;
+  margin-left: 45px;
 }
 section.experience .topbar ul li {
   display: inline-block;
@@ -516,10 +515,9 @@ section.experience .botbar .prev {
   color: #D0D33C;
   display: inline-block;
   position: absolute;
-  width: 20px;
   text-align: left;
-  margin-top: 12.6px;
-  margin-left: 50px;
+  margin-top: 12.7px;
+  margin-left: 30px;
 }
 section.experience .botbar ul {
   width: 280px;
@@ -527,7 +525,7 @@ section.experience .botbar ul {
   list-style-type: none;
   font-size: 0.8rem;
   text-align: left;
-  margin-left: 63px;
+  margin-left: 42px;
 }
 section.experience .botbar ul li {
   display: inline-block;
@@ -1255,6 +1253,7 @@ section.thanks .madeby p span {
     width: 20px;
     position: static;
     font-size: 1rem;
+    position: static;
     text-align: left;
     margin-top: 10px;
     margin-left: 51px;

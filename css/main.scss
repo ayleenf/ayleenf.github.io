@@ -205,6 +205,7 @@ section.experience{
     .topbar{
         //padding-top: 2em;
         text-align: center;
+        //width:300px;
 
         .now {
             font-size:.8rem;
@@ -212,10 +213,10 @@ section.experience{
             color:#D0D33C;
             display: inline-block;
             position: absolute;
-            width: 20px;
+            //width: 20px;
             text-align: left;
             margin-top: 12.6px;
-            margin-left: 49.5px;
+            margin-left: 29px;
         }
         
         ul {
@@ -224,7 +225,7 @@ section.experience{
             list-style-type: none;
             font-size: .8rem;
             text-align: left;
-            margin-left: 65px;
+            margin-left: 45px;
             li {
                 display: inline-block;
 
@@ -614,6 +615,7 @@ section.experience{
         padding-top: 2em;
         text-align: center;
         padding-bottom: 1.2em;
+        //width: 300px;
 
         .prev {
             font-size:.8rem;
@@ -621,10 +623,10 @@ section.experience{
             color:#D0D33C;
             display: inline-block;
             position: absolute;
-            width: 20px;
+            //width: 20px;
             text-align: left;
-            margin-top: 12.6px;
-            margin-left: 50px;
+            margin-top: 12.7px;
+            margin-left: 30px;
         }
         
         ul {  
@@ -633,7 +635,7 @@ section.experience{
             list-style-type: none;
             font-size: .8rem;
             text-align: left;
-            margin-left: 63px;
+            margin-left: 42px;
             li {
                 display: inline-block;
 
@@ -1505,7 +1507,7 @@ section.thanks{
                 width: 20px;
                 position:static;
                 font-size:1rem;
-                //position: absolute;
+                position: static;
                 text-align: left;
                 margin-top: 10px;
                 //margin-top: 16.7px;
