@@ -149,8 +149,8 @@ section.about .daynight span:hover {
 }
 section.about img {
   display: inline-block;
-  height: 50%;
-  width: auto;
+  height: auto;
+  width: 70%;
   margin-top: 1em;
   text-align: center;
   margin-bottom: 2em;
@@ -500,7 +500,7 @@ section.experience .botbar .prev {
   display: inline-block;
   position: absolute;
   text-align: left;
-  margin-top: 11.9px;
+  margin-top: 12.6px;
   margin-left: 30px;
 }
 section.experience .botbar ul {
@@ -585,6 +585,7 @@ section.portfolio .container .box .store-item p:hover {
   cursor: pointer;
 }
 section.portfolio .container .box p {
+  width: 100%;
   margin-top: 2em;
   font-size: 0.8rem;
 }

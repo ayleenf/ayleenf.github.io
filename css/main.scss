@@ -165,8 +165,8 @@ section.about{
     }
     img{
         display: inline-block;
-        height: 50%;
-        width: auto;
+        height: auto;
+        width: 70%;
         margin-top: 1em;
         text-align: center;
         margin-bottom: 2em;
@@ -630,7 +630,7 @@ section.experience{
             position: absolute;
             //width: 20px;
             text-align: left;
-            margin-top: 11.9px;
+            margin-top: 12.6px;
             margin-left: 30px;
         }
         
@@ -744,6 +744,7 @@ section.portfolio{
             }
 
             p{
+                width: 100%;
                 margin-top: 2em;
                 font-size: .8rem;
                 a{
