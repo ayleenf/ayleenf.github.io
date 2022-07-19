@@ -135,7 +135,7 @@ section.about .daynight {
   text-align: left;
   margin-top: 1em;
   margin-bottom: 2em;
-  margin-left: 0.8em;
+  margin-left: 25px;
   font-size: 0.8rem;
 }
 section.about .daynight a {
@@ -160,14 +160,14 @@ section.about .content {
   text-align: left;
   font-size: 0.8rem;
   line-height: 2em;
-  margin-left: 0.8em;
+  margin-left: 25px;
 }
 section.about .content .dotdot {
   font-weight: bold;
   font-size: 0.9rem;
 }
 section.about .content .list {
-  margin-left: 1.8em;
+  margin-left: 20px;
 }
 section.about .content .list span {
   color: #D0D33C;
