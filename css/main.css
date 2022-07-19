@@ -217,13 +217,11 @@ section.experience .divider {
   width: 100%;
 }
 section.experience .tabbody {
-  width: 300px;
   padding-left: 30px;
   margin: auto;
   text-align: center;
 }
 section.experience .tabbody h2 {
-  display: inline-block;
   text-align: left;
   color: #D0D33C;
   font-size: 0.9rem;
@@ -250,7 +248,6 @@ section.experience .tabbody p.green {
 }
 section.experience .tabbody2 {
   display: none;
-  width: 300px;
   padding-left: 30px;
   margin: auto;
   text-align: center;
@@ -282,7 +279,6 @@ section.experience .tabbody2 p.green {
 }
 section.experience .tabbody3 {
   display: none;
-  width: 300px;
   padding-left: 30px;
   margin: auto;
   text-align: center;
@@ -314,7 +310,6 @@ section.experience .tabbody3 p.green {
 }
 section.experience .tabbody4 {
   display: none;
-  width: 300px;
   padding-left: 30px;
   margin: auto;
   text-align: center;
@@ -345,7 +340,6 @@ section.experience .tabbody4 p.green {
   margin-top: 0.7em !important;
 }
 section.experience .tabbody5 {
-  width: 300px;
   padding-left: 30px;
   margin: auto;
   text-align: center;
@@ -377,7 +371,6 @@ section.experience .tabbody5 p.green {
 }
 section.experience .tabbody6 {
   display: none;
-  width: 300px;
   padding-left: 30px;
   margin: auto;
   text-align: center;
@@ -409,7 +402,6 @@ section.experience .tabbody6 p.green {
 }
 section.experience .tabbody7 {
   display: none;
-  width: 300px;
   padding-left: 30px;
   margin: auto;
   text-align: center;
@@ -441,7 +433,6 @@ section.experience .tabbody7 p.green {
 }
 section.experience .tabbody8 {
   display: none;
-  width: 300px;
   padding-left: 30px;
   margin: auto;
   text-align: center;
@@ -473,7 +464,6 @@ section.experience .tabbody8 p.green {
 }
 section.experience .tabbody9 {
   display: none;
-  width: 300px;
   padding-left: 30px;
   margin: auto;
   text-align: center;
