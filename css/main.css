@@ -122,7 +122,6 @@ section.hero .desc2 {
 
 section.about {
   color: white;
-  height: 70vh;
   text-align: center;
   padding-top: 3em;
   padding-bottom: 10em;
@@ -174,14 +173,11 @@ section.about .content .list span {
 section.experience {
   color: white;
   margin: auto;
-  margin-top: 4em;
 }
 section.experience a {
   all: unset;
 }
 section.experience .sectionhead {
-  margin: 2em;
-  margin-top: 10em;
   padding-top: 10px;
   font-size: 1.2em;
   text-align: center;
@@ -530,14 +526,12 @@ section.portfolio {
   text-align: center;
 }
 section.portfolio .sectionhead {
-  margin: 2em;
   margin-top: 8em;
   font-size: 1.2em;
   text-align: center;
 }
 section.portfolio .container {
   display: inline-block;
-  width: 300px;
 }
 section.portfolio .container .menu {
   display: block;
@@ -565,7 +559,8 @@ section.portfolio .container .box a {
 }
 section.portfolio .container .box .store-item {
   margin-top: -1em;
-  padding: 1rem;
+  padding: 0.5rem;
+  padding-bottom: 2rem;
   display: flex;
   justify-content: center;
 }
