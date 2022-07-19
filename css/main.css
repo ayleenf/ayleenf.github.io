@@ -1371,6 +1371,10 @@ section.thanks .madeby p span {
     text-align: center;
   }
   section.thanks .phonehouse {
+    visibility: hidden;
+    display: none;
+  }
+  section.thanks .phonehouse svg {
     display: none;
   }
   section.thanks .madeby {

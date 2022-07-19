@@ -1667,7 +1667,11 @@ section.thanks{
         }
 
         .phonehouse{
+            visibility: hidden;
             display:none;
+            svg{
+                display: none;
+            }
         }
     
         .madeby{
