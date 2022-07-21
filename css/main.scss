@@ -11,9 +11,9 @@ body{
     //width: 100%;
 }
 
-// .wrapper{
-//     overflow-x: hidden;
-// }
+.wrapper{
+    overflow: hidden;
+}
 
 a {
     text-decoration: none;
@@ -716,7 +716,6 @@ section.portfolio{
                 padding-bottom: 2rem;
                 display: flex;
                 justify-content: center;
-
                 
 
                 
@@ -735,7 +734,8 @@ section.portfolio{
                 }
 
                 p{
-                    position: absolute;    
+                    position: absolute;
+
                     padding-top: 100px;
                     font-size: .7rem;
 
@@ -748,7 +748,7 @@ section.portfolio{
             }
 
             p{
-                width: 100%;
+                //width: 100%;
                 margin-top: 2em;
                 font-size: .8rem;
                 a{

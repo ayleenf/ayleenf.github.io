@@ -10,6 +10,10 @@ body {
   overflow-x: hidden;
 }
 
+.wrapper {
+  overflow: hidden;
+}
+
 a {
   text-decoration: none;
   font-size: 1.3rem;
@@ -585,7 +589,6 @@ section.portfolio .container .box .store-item p:hover {
   cursor: pointer;
 }
 section.portfolio .container .box p {
-  width: 100%;
   margin-top: 2em;
   font-size: 0.8rem;
 }
