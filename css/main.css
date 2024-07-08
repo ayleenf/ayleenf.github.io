@@ -246,6 +246,40 @@ section.experience .tabbody p.green {
   font-style: italic;
   margin-top: 0.7em !important;
 }
+
+section.experience .tabbody1 {
+  display: none;
+  padding-left: 30px;
+  margin: auto;
+  text-align: center;
+}
+section.experience .tabbody1 h2 {
+  text-align: left;
+  color: #D0D33C;
+  font-size: 0.9rem;
+  margin-bottom: 0.1em;
+}
+section.experience .tabbody1 p {
+  line-height: 1.7em;
+  text-align: left;
+  margin-top: 0;
+  font-size: 0.7rem;
+}
+section.experience .tabbody1 p span {
+  font-style: italic;
+  color: #a9b3b8;
+}
+section.experience .tabbody1 p span:hover {
+  color: #D0D33C;
+  cursor: pointer;
+}
+section.experience .tabbody1 p.green {
+  color: #53DA79;
+  font-style: italic;
+  margin-top: 0.7em !important;
+}
+
+
 section.experience .tabbody2 {
   display: none;
   padding-left: 30px;
@@ -493,10 +527,48 @@ section.experience .tabbody9 p.green {
   font-style: italic;
   margin-top: 0.7em !important;
 }
+
+section.experience .tabbody10 {
+  display: none;
+  padding-left: 30px;
+  margin: auto;
+  text-align: center;
+}
+section.experience .tabbody10 h2 {
+  text-align: left;
+  color: #D0D33C;
+  font-size: 0.9rem;
+  margin-bottom: 0.1em;
+}
+section.experience .tabbody10 p {
+  line-height: 1.7em;
+  text-align: left;
+  margin-top: 0;
+  font-size: 0.7rem;
+}
+section.experience .tabbody10 p span {
+  font-style: italic;
+  color: #a9b3b8;
+}
+section.experience .tabbody10 p span:hover {
+  color: #D0D33C;
+  cursor: pointer;
+}
+section.experience .tabbody10 p.green {
+  color: #53DA79;
+  font-style: italic;
+  margin-top: 0.7em !important;
+}
+
+
+
 section.experience .botbar {
   padding-top: 2em;
+  align-items: center;
   text-align: center;
+  justify-content: center;
   padding-bottom: 1.2em;
+  display: flex;
 }
 section.experience .botbar .prev {
   font-size: 0.8rem;
@@ -504,7 +576,7 @@ section.experience .botbar .prev {
   display: inline-block;
   position: absolute;
   text-align: left;
-  margin-top: 12.6px;
+  /* margin-top: 0.5px; */
   margin-left: 30px;
 }
 section.experience .botbar ul {
@@ -963,6 +1035,43 @@ section.thanks .madeby p span {
     font-style: italic;
     margin-top: 0.7em !important;
   }
+  
+  section.experience .tabbody1 {
+    display: none;
+    width: 722px;
+    padding-left: 0;
+    margin: auto;
+    text-align: left;
+  }
+  section.experience .tabbody1 h2 {
+    display: block;
+    margin-left: 85px;
+    color: #D0D33C;
+    font-size: 1rem;
+    margin-bottom: 0.1em;
+  }
+  section.experience .tabbody1 p {
+    line-height: 1.7em;
+    margin-left: 85px;
+    margin-top: 0;
+    font-size: 0.8rem;
+  }
+  section.experience .tabbody1 p span {
+    font-style: italic;
+    color: #a9b3b8;
+  }
+  section.experience .tabbody1 p span:hover {
+    color: #D0D33C;
+    cursor: pointer;
+  }
+  section.experience .tabbody1 p.green {
+    color: #53DA79;
+    font-style: italic;
+    margin-top: 0.7em !important;
+  }
+
+
+
   section.experience .tabbody2 {
     display: none;
     width: 722px;
@@ -1226,6 +1335,39 @@ section.thanks .madeby p span {
     font-style: italic;
     margin-top: 0.7em !important;
   }
+  section.experience .tabbody10 {
+    display: none;
+    width: 722px;
+    padding-left: 0;
+    margin: auto;
+    text-align: left;
+  }
+  section.experience .tabbody10 h2 {
+    display: block;
+    margin-left: 85px;
+    color: #D0D33C;
+    font-size: 1rem;
+    margin-bottom: 0.1em;
+  }
+  section.experience .tabbody10 p {
+    line-height: 1.7em;
+    margin-left: 85px;
+    margin-top: 0;
+    font-size: 0.8rem;
+  }
+  section.experience .tabbody10 p span {
+    font-style: italic;
+    color: #a9b3b8;
+  }
+  section.experience .tabbody10 p span:hover {
+    color: #D0D33C;
+    cursor: pointer;
+  }
+  section.experience .tabbody10 p.green {
+    color: #53DA79;
+    font-style: italic;
+    margin-top: 0.7em !important;
+  }
   section.experience .botbar {
     padding-top: 2em;
     text-align: center;
@@ -1240,7 +1382,7 @@ section.thanks .madeby p span {
     font-size: 1rem;
     position: static;
     text-align: left;
-    margin-top: -0.575px;
+    margin-top: -3.96px;
     margin-left: 50px;
   }
   section.experience .botbar ul {
